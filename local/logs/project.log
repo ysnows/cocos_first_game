@@ -1,0 +1,55 @@
+2018-07-11T10:03:21.235Z - normal: Load ~/.CocosCreator/settings.json
+2018-07-11T10:03:21.242Z - normal: checking language setting...
+2018-07-11T10:03:21.242Z - normal: Language: zh
+2018-07-11T10:03:22.947Z - success: protocol editor-framework registered
+2018-07-11T10:03:22.947Z - success: protocol app registered
+2018-07-11T10:03:22.947Z - success: protocol theme registered
+2018-07-11T10:03:22.947Z - success: protocol packages registered
+2018-07-11T10:03:22.948Z - success: protocol unpack registerred
+2018-07-11T10:03:22.948Z - success: protocol disable-commonjs registerred
+2018-07-11T10:03:23.023Z - normal: connected!
+2018-07-11T10:03:23.026Z - normal: Check project /Users/ysnows/Desktop/start_project
+2018-07-11T10:03:23.028Z - normal: Initializing Cocos2d
+2018-07-11T10:03:23.454Z - normal: Initializing Asset Database
+2018-07-11T10:03:23.516Z - success: protocol uuid registerred
+2018-07-11T10:03:23.516Z - success: protocol db registerred
+2018-07-11T10:03:23.517Z - success: protocol thumbnail registerred
+2018-07-11T10:03:23.517Z - normal: Loading editor/builtin packages
+2018-07-11T10:03:23.553Z - success: anysdk loaded
+2018-07-11T10:03:23.789Z - success: assets loaded
+2018-07-11T10:03:23.794Z - success: builder loaded
+2018-07-11T10:03:23.798Z - success: cocos-analytics loaded
+2018-07-11T10:03:23.808Z - success: console loaded
+2018-07-11T10:03:23.852Z - success: fb-instant-games loaded
+2018-07-11T10:03:23.860Z - success: hierarchy loaded
+2018-07-11T10:03:23.869Z - success: inspector loaded
+2018-07-11T10:03:23.872Z - success: keystore loaded
+2018-07-11T10:03:23.880Z - success: node-library loaded
+2018-07-11T10:03:23.883Z - success: package-asset loaded
+2018-07-11T10:03:23.886Z - success: preferences loaded
+2018-07-11T10:03:23.893Z - success: project-exporter loaded
+2018-07-11T10:03:23.923Z - success: project-importer loaded
+2018-07-11T10:03:23.928Z - success: project-settings loaded
+2018-07-11T10:03:23.939Z - success: ui-kit loaded
+2018-07-11T10:03:23.948Z - success: ui-grid loaded
+2018-07-11T10:03:23.954Z - success: scene loaded
+2018-07-11T10:03:23.956Z - success: sprite-editor loaded
+2018-07-11T10:03:23.964Z - success: store loaded
+2018-07-11T10:03:23.977Z - success: timeline loaded
+2018-07-11T10:03:23.977Z - normal: Loading builtin packages
+2018-07-11T10:03:23.984Z - success: asset-db-debugger loaded
+2018-07-11T10:03:23.987Z - success: color-picker loaded
+2018-07-11T10:03:23.996Z - success: package-manager loaded
+2018-07-11T10:03:23.998Z - success: qqplay-adapter loaded
+2018-07-11T10:03:24.012Z - success: sdkbox loaded
+2018-07-11T10:03:24.021Z - success: tester loaded
+2018-07-11T10:03:24.028Z - success: ui-kit-preview-extra loaded
+2018-07-11T10:03:24.034Z - success: ui-kit-preview loaded
+2018-07-11T10:03:24.043Z - success: ui-tree loaded
+2018-07-11T10:03:24.046Z - success: weapp-adapter loaded
+2018-07-11T10:03:25.820Z - normal: Initializing project /Users/ysnows/Desktop/start_project
+2018-07-11T10:03:25.825Z - normal: Loading packages
+2018-07-11T10:03:25.834Z - normal: Watching packages
+2018-07-11T10:03:25.996Z - normal: Run Application
+2018-07-11T10:03:27.516Z - success: preview server running at http://localhost:7456
+2018-07-11T10:03:35.215Z - normal: 1.9.2
